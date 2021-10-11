@@ -1,0 +1,10 @@
+	#include "EAstdlib.event"
+	#include "Extensions/Hack Installation.txt"
+	#include "Custom Definations.event"
+	#include "_6CDefinitions.event"
+	#include "_FuncDefs.event"
+
+ORG FreeSpace
+	#include "Texts/_TextMasterInstaller.event"
+	#include "EngineHacks/_MasterHackInstaller.event"
+	#include "Events/Events Installer.event"
